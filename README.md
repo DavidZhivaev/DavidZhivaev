@@ -28,8 +28,6 @@
 ### Мои публичные проекты
 	
 - CordyChecker для проекта [ReallyWorld](https://reallyworld.ru/) - [Открыть](https://github.com/DavidZhivaev/CordyChecker)
-- SchoolAPI для проекта [Московская Электронная Школа](https://school.mos.ru) - [Открыть](https://github.com/DavidZhivaev/SchoolAPI)
-- SQLiteQuick для облегченной работы с SQLite3 - [Открыть](https://github.com/DavidZhivaev/SQLiteQuick)
+- SchoolAPI для проекта [Московская Электронная Школа](https://school.mos.ru) - [Открыть](https://github.com/DavidZhivaev/SchoolAPI) - В разработке
+- SQLiteQuick для облегченной работы с SQLite3 - [Открыть](https://github.com/DavidZhivaev/SQLiteQuick) - В разработке
 - К сожалению, многие проекты останутся секретом...
-
-![GitHub статистика](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidZhivaev&layout=compact&theme=dark)
