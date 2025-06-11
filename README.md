@@ -16,7 +16,6 @@
 Подробнее, о том, с чем я работал в разделе технологий
 
 ### Технологии
-</div>
 
 <div align="center">
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
