@@ -49,8 +49,12 @@
   <code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/python.png" alt="python" title="python"/></code>
   <code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/spring.png" alt="spring" title="spring"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/sqlite.png" alt="sqlite" title="sqlite"/></code>
- 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/ubuntu.png" alt="ubuntu.png" title="ubuntu.png"/></code>
+ 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/ubuntu.png" alt="ubuntu" title="ubuntu"/></code>
   <code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/visual_studio_code.png" alt="visual_studio_code" title="visual_studio_code"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="windows" title="windows"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" alt="unity" title="unity"/></code>
+ 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="tailwind_css" title="tailwind_css"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="figma" title="figma"/></code>
 </div>
 
 ### Мои публичные проекты
