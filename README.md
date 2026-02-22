@@ -17,13 +17,10 @@
 ### Технологии
 
 <div align="center">
- 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/auth0.png" alt="auth0" title="auth0"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/bash.png" alt="bash" title="bash"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/bootstrap.png" alt="bootstrap" title="bootstrap"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/c%2B%2B.png" alt="c%2B%2B" title="c%2B%2B"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/c%23.png" alt="c%23" title="c%23"/></code>
  	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" alt="websocket" title="websocket"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/c.png" alt="c" title="c"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/css.png" alt="css" title="css"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/django.png" alt="django" title="django"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/docker.png" alt="docker" title="docker"/></code>
@@ -34,10 +31,8 @@
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/html.png" alt="html" title="html"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/http.png" alt="http" title="http"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/intellij.png" alt="intellij" title="intellij"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/ios.png" alt="ios" title="ios"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/java.png" alt="java" title="java"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/linux.png" alt="linux" title="linux"/></code>
- 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/macos.png" alt="macos" title="macos"/></code>
   <code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/maven.png" alt="maven" title="maven"/></code>
   <code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/mysql.png" alt="mysql" title="mysql"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/numpy.png" alt="numpy" title="numpy"/></code>
